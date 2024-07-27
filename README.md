@@ -1,22 +1,22 @@
 # Hi there 👋, I'm Remigijus Gricius!
 📊 Aspiring Data Analyst | 🎓 Student at Turing College | 💡 Problem Solver
-🌍 Based in Vilnius, Lithuania
+🌍 Based in Kaunas, Lithuania
 
 ## 🌟 About Me
 
-🔍 I'm a data enthusiast with a strong background in production planning and a passion for numbers and analytics. My journey began in the fresh and frozen food industry and the medical industry, where I utilized data to drive decision-making and optimize processes. With extensive experience in Lean principles, problem-solving methods like Fishbone, A3, KATA, and 5WHY, as well as project management and continuous improvement, I’ve developed a robust analytical skill set.
+🔍 I'm a data enthusiast with a background in production planning and a passion for analytics. My journey began in the food and medical industries, using data to drive decisions and optimize processes. I have experience in Lean principles, problem-solving methods like Fishbone, A3, KATA, and 5WHY, as well as project management and continuous improvement.
 
 ## 📚 My Journey
 
-Starting as a production planner, I always found myself gravitating towards data and numbers. I loved working with Excel, learning new techniques, and creating innovative solutions. This passion led me to pursue further education at Turing College, where I’ve honed my skills in SQL, BigQuery, PowerBI, and Python. My studies have equipped me with the ability to conduct Cohort Analysis, Funnels, RFM, CLV, A/B Testing, and more.
+Starting as a production planner, I was drawn to data and numbers, loving Excel and learning new techniques. This passion led me to Turing College, where I honed skills in SQL, BigQuery, PowerBI, and Python, focusing on Cohort Analysis, Funnels, RFM, CLV, A/B Testing, and more.
 
 ## 🚀 Current Focus
 
-At Turing College, I’m mastering Python and its applications in data analytics. I’m driven by the excitement of tackling complex problems and providing actionable business insights. I’m always eager to learn and improve, constantly seeking new knowledge and skills to enhance my expertise.
+At Turing College, I’m mastering Python for data analytics. I thrive on tackling complex problems and providing actionable insights. I’m committed to continuous learning and skill enhancement.
 
 ## 🎯 Future Goals
 
-I am actively seeking opportunities in data analysis roles across various sectors, with a keen interest in product analysis. My goal is to leverage my analytical mindset and technical acumen to drive strategic decision-making and contribute to business success.
+Seeking data analysis roles across various sectors, with an interest in product analysis. My aim is to leverage my analytical skills to drive strategic decision-making and contribute to business success.
 
 ## 📧 Get in Touch
 
@@ -25,13 +25,13 @@ I am actively seeking opportunities in data analysis roles across various sector
 
 ## 🛠 Skills
 
-- **Excel:** Advanced techniques for data analysis and process optimization.
-- **SQL & BigQuery:** Proficient in querying and managing large datasets.
-- **PowerBI:** Creating insightful and interactive dashboards.
-- **Python:** Currently enhancing skills for data analytics applications.
-- **Lean Principles:** Expertise in Fishbone, A3, KATA, and 5WHY methods.
-- **Project Management:** Skilled in continuous improvement and cross-functional collaboration.
+- **Excel:** Advanced techniques for data analysis and optimization.
+- **SQL & BigQuery:** Proficient in managing large datasets.
+- **PowerBI:** Creating interactive dashboards.
+- **Python:** Enhancing skills for data analytics.
+- **Lean Principles:** Expertise in Fishbone, A3, KATA, and 5WHY.
+- **Project Management:** Skilled in continuous improvement and collaboration.
 
 ---
 
-Feel free to connect with me if you're interested in data analysis, problem-solving, or just want to chat about the latest trends in data science and analytics!
+Connect with me if you're interested in data analysis, problem-solving, or the latest trends in data science!
