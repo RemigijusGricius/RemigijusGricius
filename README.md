@@ -1,84 +1,50 @@
-# Hi there 👋, I'm Remigijus Gricius!
+# Hi there 👋 I'm Remigijus Gricius
 
-**Lead Data Analyst | Analytics Engineering Enthusiast | SQL • Python • Databricks • dbt • Power BI**
+**Lead Data Analyst | Building toward Analytics Engineering**
 
-📍 Based in Kaunas, Lithuania
+📍 Kaunas, Lithuania
 
 ## 👨‍💻 About Me
 
-I'm a **Lead Data Analyst** with experience building data pipelines, analytical models, and business intelligence solutions that turn complex data into actionable insights.
+I'm a **Lead Data Analyst** working in the medical device industry, with hands-on experience building data pipelines, analytical models, and business intelligence solutions.
 
-Currently working in the medical device industry, I focus on integrating data from multiple sources, developing scalable analytical solutions, and delivering insights to support business and clinical decision-making.
+I work across the data lifecycle — from ingestion and transformation to data modeling, quality validation, and visualization — using SQL, Python, Databricks, and Power BI.
 
-My work spans the data lifecycle — from ingestion and transformation to data modeling, quality validation, and visualization.
-
-I'm particularly interested in **Analytics Engineering**, where software engineering practices meet analytics. I'm continuously expanding my skills in dbt, Git, automated testing, CI/CD, and modern data architecture.
-
-Before transitioning into analytics, I spent six years in production planning, developing a strong foundation in operational processes, problem-solving, and cross-functional collaboration.
+My current focus is **Analytics Engineering**: combining analytics expertise with software engineering practices to build reliable, scalable, and maintainable data products.
 
 ## 🛠️ Tech Stack
 
-**Data Engineering & Transformation**
-- SQL, Python, PySpark
-- Databricks, Delta Lake
-- ETL/ELT pipelines, Medallion Architecture
-- Data modeling, data quality, automated testing
-- dbt Core (currently developing hands-on experience)
-
-**Analytics & Business Intelligence**
-- Power BI, DAX, Power Query
-- Microsoft Fabric
-- KPI development, dashboard design, analytical reporting
-
-**Development & Collaboration**
-- Git, GitHub, Azure DevOps
-- VS Code
-- GitHub Actions / CI/CD (currently learning)
-
-**Databases & Platforms**
-- Databricks SQL
-- DuckDB
-- BigQuery
+| Area | Technologies & Skills |
+|---|---|
+| **Data Engineering** | SQL, Python, PySpark, Databricks, Delta Lake, ETL/ELT |
+| **Data Modeling** | Medallion Architecture, Dimensional Modeling, Data Quality |
+| **Analytics & BI** | Power BI, DAX, Microsoft Fabric |
+| **Development** | Git, GitHub, Azure DevOps, VS Code |
+| **Currently Learning** | dbt Core, DuckDB, CI/CD, GitHub Actions |
 
 ## 🚀 Featured Project
 
 ### 🎮 GameHub — Customer Support Analytics Platform
 
-A personal Analytics Engineering project built using synthetic gaming marketplace customer support data.
+An end-to-end Analytics Engineering portfolio project using synthetic gaming marketplace data.
 
-**Tech stack:** Python | DuckDB | dbt Core | SQL | GitHub
+**Python · DuckDB · dbt Core · SQL**
 
-The project demonstrates:
+- Automated data ingestion with file-level validation
+- Bronze → Staging → Intermediate → Gold data architecture
+- Reusable dbt transformations and Jinja macros
+- Customer support lifecycle and KPI modeling
+- Automated data quality tests and reconciliation checks
 
-- Automated data ingestion with Python and DuckDB
-- Bronze → Staging → Intermediate → Gold data transformations
-- Reusable dbt models and Jinja macros
-- Customer support ticket lifecycle modeling
-- Data quality checks, reconciliation, and automated tests
-- Support KPIs covering resolution time, first response time, reopening rates, and bot resolutions
+**Next:** GitHub Actions CI/CD and improved project documentation.
 
-**Current focus:** Implementing GitHub Actions CI/CD and improving project reproducibility and documentation.
+## 🎯 Current Focus
 
-*Explore the project in my GitHub repositories.*
+I'm strengthening my Analytics Engineering skills through hands-on projects, with a focus on **data modeling, automated testing, CI/CD, and maintainable data pipelines**.
 
-## 🎯 What I'm Working Toward
+I enjoy solving complex data problems and turning raw data into reliable, useful data products.
 
-I'm developing my career toward **Analytics Engineering**, combining my analytical background with stronger engineering practices.
+## 📫 Connect With Me
 
-My current learning priorities include:
-
-- Advanced SQL and dimensional data modeling
-- dbt and reusable transformation frameworks
-- Automated testing and data quality
-- CI/CD for analytics pipelines
-- Scalable and maintainable data architectures
-
-My goal is to build reliable data products that are not only useful for analysis but also well-structured, tested, documented, and easy to maintain.
-
-## 📫 Let's Connect
-
-I'm always interested in exchanging ideas about Analytics Engineering, data platforms, and practical approaches to building reliable analytics solutions.
-
-📧 **Email:** [remigijus1995@gmail.com](mailto:remigijus1995@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/remigijus-gricius-56b332141](https://www.linkedin.com/in/remigijus-gricius-56b332141)
+- 💼 **LinkedIn:** [linkedin.com/in/remigijus-gricius-56b332141](https://www.linkedin.com/in/remigijus-gricius-56b332141)
+- 📧 **Email:** [remigijus1995@gmail.com](mailto:remigijus1995@gmail.com)
